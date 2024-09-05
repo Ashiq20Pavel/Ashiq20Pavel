@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 #### What I'm doing?
-- 🏢 Working at **[LeadSoft](https://leadsoft.com.bd/)** as a **Principal Software Engineer**.
+- 🏢 Working at **[FiNTECH Hub Limited](https://fintechhubltd.com/)** as a **Junior Assistant Vice President**.
 - 👨‍💻 Writing `Java` `SQL` `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/ashiqur-rahman-pavel/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> and the **Spring community**.
 - 👯 Looking to collaborate on **spring boot projects**.
