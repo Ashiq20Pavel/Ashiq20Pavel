@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A Principal Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have 5+ years of hands-on experience in **technology consulting, product development.**
+- A Junior Assistant Vice President based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- Have 6+ years of hands-on experience in **technology consulting, product development, Project Management.**
 - Developed products for **insurance**, and **banking** business domains.
 - Have built **native, hybrid,** and **web** apps targeting **multi-platform** and **cross-platform** ecosystems in **monolithic** and **microservices** architectures.
 <p align="left">
