@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 #### What companies have I worked for?
 <p left="center">
   <a href="https://leadsoft.com.bd/">
-    <img src="https://leadsoft.com.bd/wp-content/uploads/2021/01/LeadSoft.png" height=50>
+    <img src="http://fintechhubltd.com/wp-content/uploads/2020/09/Fintech-Hub-logo.png" height=50>
     </a> 
 </p>
 
